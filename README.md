@@ -60,3 +60,5 @@ Distributed Python Event Processor for real-time IoT stream processing
 ## Progress Update 15
 
 ## Progress Update 16
+
+## Progress Update 17
